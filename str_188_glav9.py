@@ -32,3 +32,4 @@ s = str(values[2])
 print(type(s))
 print(type(values1))
 print(type(values1[2]))
+
