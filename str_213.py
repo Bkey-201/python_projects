@@ -1,3 +1,4 @@
+#Словарь создание добавление, изменение
 capitals = {
 "California": "Sacramento",
 "New York" : "Albany",
