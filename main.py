@@ -14,3 +14,5 @@
 name = "Picard"
 name.upper()
 print(name.upper())
+value = add(2,2)
+print(value)
